@@ -1,8 +1,8 @@
 [
   {
     "name": "ReBuilder",
-    "url": "http://mail.rebuildermedical.com",
-    "icon": "https://icons.duckduckgo.com/ip3/mail.rebuildermedical.com.ico",
+    "url": "70.91.70.242",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "re-builder",
     "status": "down",
     "uptime": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 97,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2025-01-24": 854,
+      "2025-01-24": 860,
       "2025-01-23": 126
     }
   }
