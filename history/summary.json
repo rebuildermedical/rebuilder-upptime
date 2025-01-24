@@ -1,22 +1,22 @@
 [
   {
     "name": "ReBuilder",
-    "url": "70.91.70.242",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://www.rebuildermedical.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.rebuildermedical.com.ico",
     "slug": "re-builder",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 97,
-    "timeDay": 97,
-    "timeWeek": 97,
-    "timeMonth": 97,
-    "timeYear": 97,
+    "time": 242,
+    "timeDay": 242,
+    "timeWeek": 242,
+    "timeMonth": 242,
+    "timeYear": 242,
     "dailyMinutesDown": {
-      "2025-01-24": 860,
+      "2025-01-24": 943,
       "2025-01-23": 126
     }
   }
